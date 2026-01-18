@@ -1,5 +1,5 @@
 let input = document.querySelector(".inPUT");
-let btn = document.querySelector(".search-button");
+let btn = document.querySelector("button");
 let cityEl = document.querySelector(".city");
 let tempEl = document.querySelector(".temp");
 let conditionEl = document.querySelector(".condition");
